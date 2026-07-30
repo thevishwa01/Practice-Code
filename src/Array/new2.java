@@ -1,6 +1,6 @@
 package Array;
 
-public class new2 {
+public class new1 {
 
 	public static void main(String[] args) {
 
