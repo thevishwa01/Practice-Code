@@ -4,7 +4,7 @@ public class new2 {
 
 	public static void main(String[] args) {
 
-		int[] a = { 1, 23, 55, 23, 664, 74 , 5678};
+		int[] a = { 1, 23, 55, 23, 664, 74 , 56};
 
 		int max = a[0];
 
